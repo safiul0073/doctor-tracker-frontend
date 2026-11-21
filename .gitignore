@@ -3,6 +3,9 @@ node_modules/
 .pnp
 .pnp.js
 
+# Vercel
+.vercel
+
 # Next.js build output
 .next/
 out/
